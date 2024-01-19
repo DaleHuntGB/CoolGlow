@@ -1,0 +1,10 @@
+## Interface: 100205
+## Author: |cFF8080FFUnhalted|r - Original: |cFFf960d9Klix|r.
+## Version: 2.0
+## Title: Cool Glow: |cFF8080FFReborn|r
+## Notes: Allows customization of action button glows.
+## SavedVariables: CoolGlowDB
+## SavedVariablesPerCharacter: CoolGlowPerCharDB
+libs\load_libs.xml
+locales\load_locales.xml
+CoolGlow.lua
